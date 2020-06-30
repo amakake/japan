@@ -1,0 +1,4 @@
+package android
+
+class Properties {
+}

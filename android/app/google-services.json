@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "813207823092",
+    "firebase_url": "https://japan-1f49b.firebaseio.com",
+    "project_id": "japan-1f49b",
+    "storage_bucket": "japan-1f49b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813207823092:android:ec2899ade7f2e2da23b4a1",
+        "android_client_info": {
+          "package_name": "net.pega.japan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813207823092-eprapruhvs66sdlkq06n4phck9m5mr4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu4kks4ObS92TcimWz-h5BzlwhpuiboP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813207823092-eprapruhvs66sdlkq06n4phck9m5mr4g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "813207823092-dp6fspdufcmm05n48bf9m4bfgi2s9mur.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.pega.japan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
